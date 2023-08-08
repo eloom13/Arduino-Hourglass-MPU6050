@@ -3,7 +3,7 @@
 Build an hourglass with Arduino UNO and MPU6050 gyroscope.
 
 #### Schematics:
-![Schematics](https://github.com/eloom13/Arduino-Hourglass/blob/main/connections.png)
+![Schematics](https://github.com/eloom13/Arduino-Hourglass-MPU6050/blob/main/connections.png)
 
 ###### Images:
 ![Hourglass](https://github.com/eloom13/Arduino-Hourglass-MPU6050/blob/main/2.jpg)
